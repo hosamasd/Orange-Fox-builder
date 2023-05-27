@@ -1,6 +1,6 @@
 # Build Recovery using Github Actions
 
-- Support OrangeFox, [TWRP](https://github.com/azwhikaru/Action-TWRP-Builder) is here
+- Support OrangeFox, [TWRP](https://github.com/azwhikaru/TWRP-Builder) is here
 - [中文说明](./README_CN.md)
 
 ---
